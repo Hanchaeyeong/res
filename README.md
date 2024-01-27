@@ -8,6 +8,4 @@
 
 라이브러리 : jQuery
 
-서버 : Apache Tomcat
-
 
